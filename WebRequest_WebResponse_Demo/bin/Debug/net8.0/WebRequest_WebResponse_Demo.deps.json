@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebRequest_WebResponse_Demo/1.0.0": {
+        "runtime": {
+          "WebRequest_WebResponse_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebRequest_WebResponse_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
